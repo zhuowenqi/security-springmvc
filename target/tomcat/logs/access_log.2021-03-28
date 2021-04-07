@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:16:24:11 +0800] "GET /security/ HTTP/1.1" 200 442 http-bio-8080-exec-1 558
-0:0:0:0:0:0:0:1 - - [28/Mar/2021:16:24:19 +0800] "POST /security/login HTTP/1.1" 200 18 http-bio-8080-exec-3 59
